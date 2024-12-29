@@ -5,15 +5,15 @@ HTTP is the protocol that powers the web. In this challenge, you'll build a HTTP
 Along the way, we'll learn about TCP connections, HTTP headers, HTTP verbs, handling multiple connections and more.
 
 ### Stages
-- [ ] Bind to a port               [Very easy]
-- [ ] Respond with 200    		  	 [Very easy]
-- [ ] Extract URL path      			 [Easy]
-- [ ] Respond with body  		  		 [Easy]
-- [ ] Read header   	      			 [Easy]
-- [ ] Concurrent connections  		 [Easy]
-- [ ] Return a file 					     [Medium]
-- [ ] Read request body 		  		 [Medium]
+- [x] Bind to a port             
+- [ ] Respond with 200    		
+- [ ] Extract URL path      
+- [ ] Respond with body  
+- [ ] Read header   	
+- [ ] Concurrent connections 
+- [ ] Return a file 		
+- [ ] Read request body 
 ### HTTP Compression
-- [ ] Compression headers 	  		 [Easy]
-- [ ] Multiple compression schemes [Medium]
-- [ ] Gzip compression						 [Medium]
+- [ ] Compression headers 
+- [ ] Multiple compression schemes 
+- [ ] Gzip compression			
